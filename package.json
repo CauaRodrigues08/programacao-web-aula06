@@ -1,0 +1,15 @@
+{
+  "name": "pweb1-aula6",
+  "version": "1.0.0",
+  "description": "Atividade da aula 6 de Programação Web I.",
+  "license": "ISC",
+  "author": "Cauã Rodrigues",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
